@@ -10,6 +10,8 @@ public class Main {
 
         dll.reverse();
 
+        dll.reverse();
+
         dll.show();
 
     }
